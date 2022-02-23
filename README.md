@@ -6,6 +6,6 @@
 - New Deaths
 - Vaccination
 
-Data: Nat Hum Behav (2021). https://ourworldindata.org/covid-vaccinations?country=BRA - A global database of COVID-19 vaccinations
+Data: Nat Hum Behav (2022). https://ourworldindata.org/covid-vaccinations?country=BRA - A global database of COVID-19 vaccinations
 
-Last Update: 10/02/2021 - 22:01:56 (24 hour format, in UTC)
+Last Update: 2022-02-23 - 13:16:30 (24 hour format, in UTC)
